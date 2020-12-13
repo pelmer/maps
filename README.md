@@ -1,0 +1,2 @@
+# maps
+Collaboration maps generator
