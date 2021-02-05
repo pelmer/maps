@@ -1,0 +1,40 @@
+Cornell University                        | Cornell            | 0 | N | 42 | 26 | 49 | W |  76 | 28 | 58 | 42.6 | -76.5 |
+Davidson College                          | Davidson           | 1 | N | 35 | 30 | 8  | W | 80  | 50 | 20 | 34.4 | -80.8 |
+Indiana University                        | Indiana.U          | 0 | N | 39 |  9 | 58 | W |  86 | 31 | 35 | 38.4 | -87.5 |
+MIT                                       | MIT                | 0 | N | 42 | 21 | 34 | W |  71 |  5 | 30 | 42.6 | -71.0 |
+Morgridge Institute                       | Morgridge          | 0 | N | 43 | 4  | 26 | W | 89  | 34 | 39 | 42.4 | -91.4 |
+University of Wisconsin - Madison         | U.Wisconsin        | 2 | N | 43 | 4  | 26 | W | 89  | 14 | 39 | 43.3 | -87.4 |
+New York University                       | NYU                | 0 | N | 40 | 43 | 43 | W | 73  | 59 | 45 | 41.0 | -74.7 |
+Columbia University                       | Columbia           | 1 | N | 40 | 48 | 32 | W | 73  | 27 | 40 | 40.55 | -71.2 |
+Princeton University                      | Princeton          | 2 | N | 40 | 20 | 34 | W | 74  | 25 | 24 | 39.5 | -72.5 |
+Rutgers University                        | Rutgers            | 1 | N | 40 | 44 | 31 | W | 74  | 10 | 24 | 40.5 | -76.2 |
+Rice University                           | Rice               | 1 | N | 29 | 43 | 8  | W | 95  | 23 | 50 | 29.95 | -95.4 |
+Stanford University                       | Stanford           | 2 | N | 37 | 25 | 37 | W | 122 | 10 | 12 | 37.2 | -119.9 |
+University of California, Berkeley        | UC-Berkeley        | 0 | N | 37 | 52 | 19 | W | 122 | 15 | 35 | 38.1 | -119.7 |
+University of California, Irvine          | UC-Irvine          | 1 | N | 33 | 38 | 54 | W | 117 | 50 | 27 | 33.3 | -115.5 |
+University of California, San Diego       | UCSD               | 0 | N | 32 | 46 | 19 | W | 117 | 11 | 30 | 32.5 | -118.8 |
+University of California, Santa Cruz      | UCSC               | 0 | N | 36 | 59 | 50 | W | 122 |  3 |  9 | 36.2 | -123.2 |
+University of Chicago                     | U.Chicago          | 0 | N | 41 | 47 | 23 | W |  87 | 35 | 59 | 42.0 | -87.4 |
+University of Cincinnati                  | U.Cincinnati       | 2 | N | 39 | 7  | 53 | W | 84  | 30 | 58 | 38.2 | -82.0 |
+University of Illinois - Urbana-Champaign | UIUC               | 0 | N | 40 |  6 | 55 | W |  88 | 13 | 23 | 40.3 | -88.2 |
+University of Michigan - Ann Arbor        | U.Michigan         | 0 | N | 42 | 16 | 33 | W |  83 | 44 |  9 | 42.5 | -82.2 |
+University of Nebraska - Lincoln          | U.Nebraska-Lincoln | 0 | N | 40 | 49 |  3 | W |  96 | 42 |  2 | 40.0 | -96.7 |
+University of Notre Dame                  | Notre Dame         | 1 | N | 41 | 42 | 11 | W | 86  | 14 | 21 | 40.9 | -84.7 |
+University of Puerto Rico at Mayaguez     | UPRM               | 0 | N | 18 | 12 | 33 | W |  67 |  8 | 27 | 18.5 | -67.1 |
+University of Washington                  | U.Washington       | 2 | N | 47 | 39 | 23 | W | 122 | 18 | 45 | 47.0 | -122.3 |
+Notre Dame Research Computing             | CRC                | 9 | N | 41 | 42 | 11 | W | 86  | 14 | 21 | 40.9 | -84.7 |
+Stanford Linear Accelerator Center        | SLAC               | 3 | N | 37 | 25 | 37 | W | 122 | 10 | 12 | 37.2 | -123.8 |
+DIMACS                                    | DIMACS             | 3 | N | 40 | 44 | 31 | W | 74  | 10 | 24 | 39.9 | -76.5 |
+Fermi National Accelerator Laboratory     | FNAL               | 3 | N | 41 | 50 | 44 | W | 88  | 13 | 50 | 41.5 | -90 |
+Lawrence Berkeley National Laboratory     | LBNL               | 3 | N | 37 | 52 | 19 | W | 122 | 15 | 35 | 38.1 | -123.7 |
+Argonne National Laboratory               | ANL                | 3 | N | 41 | 42 | 38 | W | 87  | 58 | 59 | 41   | -89 |
+Mathematical Institute for Data Science   | MINDS/JHU          | 3 | N | 39 | 19 | 44 | W | 76  | 37 | 14 | 38.3   | -75.7 |
+Science Gateways Community Institute      | SGCI/SDSC          | 3 | N | 32 | 46 | 19 | W | 117 | 11 | 30 | 31.8 | -115.0 |
+Jefferson Lab                             | JLab               | 3 | N | 37 | 5  | 0  | W | 76  | 28 | 10 | 37   | -75 |
+Rhodes information initiative at Duke     | Rhodes/Duke        | 3 | N | 36 | 0  | 5  | W | 78  | 56 | 24 | 35.5 | -75.8 |
+Center for Statistics and Machine Learning | CSML              | 3 | N | 40 | 20 | 34 | W | 74  | 25 | 24 | 38.9 | -71.6 |
+Open Science Grid                         | OSG                | 9 | N | 32 | 46 | 19 | W | 117 | 11 | 30 | 31.8 | -117.2 |
+NVIDIA/Caltech                            | NVIDIA/Caltech     | 3 | N | 34 |  8 | 16 | W | 118 | 7  | 32 | 34.5   | -118 |
+CERN Open Data                            | CERN Open Data     | 3 | N | 32 |  0 |  0 | W |  76 |  0 |  0 | 31.6  | -71.9 |
+DeepMind                                  | DeepMind           | 3 | N | 31 |  0 |  0 | W |  76 |  0 |  0 | 30.6  | -73.2 |
+HEP Software Foundation                   | HSF                | 3 | N | 30 |  0 |  0 | W |  76 |  0 |  0 | 29.6  | -74.5 |
