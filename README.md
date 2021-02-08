@@ -57,6 +57,9 @@ can get the latitude and longitude from any source you like (googling
 'latitude longitude Princeton University' will return the values above,
 for example).
 
+(TO FIX) A minor ugliness to note is that the commenting feature using the hash
+symbol only works if the hash is the very first character in a given line.
+
 # Questions or contributions
 
 If you have questions, please file a github issue. Contributions (e.g.
