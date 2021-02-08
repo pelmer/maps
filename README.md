@@ -14,7 +14,7 @@ example data files in csv format (master-list.csv, etc.).
 
 Several python modules are required. See environment.yml for a list.
 
-If you use Conda (e.g. see the Individual Edition from [Anaconda](https://www.anaconda.com/products/individual), you can create the right python environment to start the notebook with the right modules with the included environment.yml
+If you use Conda, e.g. see the Individual Edition from [Anaconda](https://www.anaconda.com/products/individual), you can create the python environment to start the notebook with the correct modules by using the included environment.yml
 file and this command:
 
 conda env create -f environment. yml
