@@ -1,13 +1,14 @@
 # Maps with labels
 
 This is a simple map generator which allows for placement of multiple
-makers (e.g. to indicate participants in scientific or other 
-collaborations) with custom placement of labels and marker type and size.  
-Although Google Maps (for example) allow for very easy placement of markers,
-it doesn't allow for easy customization of symbols and/or labels.
+markers (e.g. to indicate participants in scientific or other 
+collaborations) with custom placement (size, font) of the corresponding
+labels. Although Google Maps (for example) allow for very easy placement of 
+markers, it doesn't allow for easy customization of symbols and/or labels.
+This map generator provides a bit more flexibility.
 
-The core part is a Jupyter notebook (Map-Institutions.ipynb) along
-with some example data files (institutions-list.csv).
+The core is a Jupyter notebook (Map-Institutions.ipynb) along with some 
+example data files (institutions-list.csv).
 
 # Required Environment
 
