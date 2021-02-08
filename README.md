@@ -49,7 +49,8 @@ The NameLine1 and NameLine2 allow for more than one line in the label.
 Typically for short institution names only NameLine1 is needed.
 
 The offsets for the label are in units of latitude and longitude,
-e.g. "-0.7,0.0" will usually put the label just below the point.
+e.g. "-0.7,0.0" will usually put the label just below the point and
+"0.3,0.0" will usually put the label just above the point.
 Note that a "West" longitude is treated as negative (-74.6551) and the
 chosen offset should reflect that. Similarly "North" is positive. You
 can get the latitude and longitude from any source you like (googling
