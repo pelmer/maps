@@ -30,7 +30,7 @@ A number of data files are included:
   * master-list.csv - a full list of a bunch of places
   * example-collaboration.csv - an example large collaboration
   * iris-hep.csv - funded institutions for IRIS-HEP (https://iris-hep.org)
-  * clariphy.csv - collaboratin institutions for CLARIPHY (https://clariphy.org)
+  * clariphy.csv - collaborating institutions for CLARIPHY (https://clariphy.org)
 
 Note that there are also examples in the notebook (and corresponding data
 files) for plotting two or three types of lists of institutions. Additional
