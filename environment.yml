@@ -2,7 +2,7 @@ name: maps
 channels:
   - conda-forge
 dependencies:
-  - python==3.9
+  - python=3.10
   - pyqt
   - pyqtgraph
   - numpy
@@ -11,3 +11,27 @@ dependencies:
   - geopy
   - jupyter
   - cartopy
+  - pandas
+  - seaborn
+  - plotly
+  - bokeh
+  # Geospatial stack
+  - geopandas
+  - shapely
+  - fiona
+  - pyproj
+  - rasterio
+  - contextily
+  # Interactive maps
+  - folium
+  # Jupyter support
+  - jupyter
+  - jupyterlab
+  - jupyterlab_vim
+  - ipykernel
+  # Optional utilities
+  - scipy
+  # Pip-only packages
+  - pip:
+      - pydeck
+      - keplergl
